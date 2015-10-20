@@ -6,11 +6,11 @@
 - [redcarpet < 3.3.3](https://github.com/vmg/redcarpet/pull/516)
 - [grape < 0.2.5](https://github.com/ruby-grape/grape/pull/291#issuecomment-11725614)
 
-Your Ruby app leaks memory if you see gems above in your _Gemfile.lock_.  
+Your Ruby app leaks memory if you see gems above in your _Gemfile.lock_. The list above may save you a week or more of your personal life.  
 
 # Contributing
 Feel free to submit a PR if you find any memory leaks in gems.  
 The format is the following:
-- [leaky gem name and versions affected](link to confirm)
+- `[leaky gem name and versions affected](link to confirm)`
 
 Thanks!
