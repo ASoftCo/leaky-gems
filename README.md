@@ -1,4 +1,6 @@
-# A list of gems that have memory leaks:
+# A list of gems that have memory leaks
+
+Links to issues, pull requests or articles demonstrating memory leaks:
 - [therubyracer < 0.12.2](https://github.com/cowboyd/therubyracer/pull/336)
 - [sidekiq < 3.5.1](https://github.com/mperham/sidekiq/pull/2598)
 - [celluloid > 0.16.0, < 0.17.2](https://github.com/celluloid/celluloid/pull/678)
