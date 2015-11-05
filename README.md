@@ -18,3 +18,7 @@ The format is the following:
 - `[leaky gem name and versions affected](link to confirm)`
 
 Thanks!
+
+# Contributors
+- [Graham Conzett @conzett](https://github.com/conzett)
+- [Jacob Oakes @oakesja](https://github.com/oakesja)
