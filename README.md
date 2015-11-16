@@ -2,6 +2,7 @@
 
 Links to issues, pull requests or articles demonstrating memory leaks (gems are listed alphabetically):
 - [celluloid > 0.16.0, < 0.17.2](https://github.com/celluloid/celluloid/pull/678)
+- [csspool < 4.0.3](https://github.com/sparklemotion/csspool/issues/59)
 - [grape < 0.2.5](https://github.com/ruby-grape/grape/pull/291#issuecomment-11725614)
 - [oj < 2.12.4](https://github.com/ohler55/oj/issues/229)
 - [redcarpet < 3.3.3](https://github.com/vmg/redcarpet/pull/516)
