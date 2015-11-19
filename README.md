@@ -1,6 +1,6 @@
 # A list of gems that have memory leaks
 
-Links to issues, pull requests or articles demonstrating memory leaks (gems are listed alphabetically):
+Links to issues, pull requests or articles demonstrating known memory leaks (gems are listed alphabetically):
 - [celluloid > 0.16.0, < 0.17.2](https://github.com/celluloid/celluloid/pull/678)
 - [csspool < 4.0.3](https://github.com/sparklemotion/csspool/issues/59)
 - [grape < 0.2.5](https://github.com/ruby-grape/grape/pull/291#issuecomment-11725614)
