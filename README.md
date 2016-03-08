@@ -9,6 +9,7 @@ Links to issues, pull requests or articles demonstrating known memory leaks (gem
 - [sidekiq < 3.5.1](https://github.com/mperham/sidekiq/pull/2598)
 - [therubyracer < 0.12.2](https://github.com/cowboyd/therubyracer/pull/336)
 - [zipruby <= 0.3.6](https://packetstormsecurity.com/files/111242/libzip-0.10-Heap-Overflow-Information-Leak.html)
+- [sequel (if you connect to an arbitrary number of databases)](https://github.com/jeremyevans/sequel/blob/master/lib/sequel/database.rb#L12)
 
 Your Ruby app leaks memory if you see gems above in your _Gemfile.lock_. The list above may save you a week or more of your personal life.
 
