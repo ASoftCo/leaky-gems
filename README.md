@@ -38,3 +38,4 @@ Thanks!
 - [Ilya Vassilevsky @vassilevsky](https://github.com/vassilevsky)
 - [Sebastiaan Pouyet @srpouyet](https://github.com/srpouyet)
 - [Michal Kulesza @mic-kul](https://github.com/mic-kul)
+- [Benoit Tigeot @benoittgt](https://github.com/benoittgt)
