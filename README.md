@@ -40,3 +40,4 @@ Thanks!
 - [Sebastiaan Pouyet @srpouyet](https://github.com/srpouyet)
 - [Michal Kulesza @mic-kul](https://github.com/mic-kul)
 - [Benoit Tigeot @benoittgt](https://github.com/benoittgt)
+- [Jolyon Pawlyn @jpawlyn](https://github.com/jpawlyn)
