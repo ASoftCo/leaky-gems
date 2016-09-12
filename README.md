@@ -8,6 +8,7 @@ Links to issues, pull requests or articles demonstrating known memory leaks (gem
 - [redcarpet < 3.3.3](https://github.com/vmg/redcarpet/pull/516)
 - [redis = 3.3.0](https://github.com/redis/redis-rb/issues/612)
 - [sidekiq < 3.5.1](https://github.com/mperham/sidekiq/pull/2598)
+- [sidekiq-statistic](https://github.com/davydovanton/sidekiq-statistic/issues/73)
 - [therubyracer < 0.12.2](https://github.com/cowboyd/therubyracer/pull/336)
 - [zipruby <= 0.3.6](https://packetstormsecurity.com/files/111242/libzip-0.10-Heap-Overflow-Information-Leak.html)
 
