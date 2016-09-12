@@ -42,3 +42,4 @@ Thanks!
 - [Michal Kulesza @mic-kul](https://github.com/mic-kul)
 - [Benoit Tigeot @benoittgt](https://github.com/benoittgt)
 - [Jolyon Pawlyn @jpawlyn](https://github.com/jpawlyn)
+- [Shai Coleman @shaicoleman](https://github.com/shaicoleman)
