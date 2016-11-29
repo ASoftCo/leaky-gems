@@ -21,7 +21,7 @@ It appears some contributors submit gems with known memory issues, but not actua
 Links to known memory issues (gems are listed alphabetically):
 - [axlsx](https://github.com/randym/axlsx/issues/276)
 - [delayed_job >= 4.06](https://github.com/collectiveidea/delayed_job/issues/776)
-- [libxml-ruby > 2.8.0 with Nokogiri RC3](http://webuild.envato.com/blog/tracking-down-ruby-heap-corruption/)
+- [libxml-ruby < 2.9.0 with Nokogiri RC3](http://webuild.envato.com/blog/tracking-down-ruby-heap-corruption/)
 - [newrelic_rpm >= 3.9.4, <= 3.9.7](https://discuss.newrelic.com/t/client-using-large-amount-of-memory/9307)
 - [sequel >= 2.12.0](https://github.com/jeremyevans/sequel/issues/1139)
 
