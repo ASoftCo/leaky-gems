@@ -24,6 +24,7 @@ Links to known memory issues (gems are listed alphabetically):
 - [libxml-ruby < 2.9.0 with Nokogiri RC3](http://webuild.envato.com/blog/tracking-down-ruby-heap-corruption/)
 - [newrelic_rpm >= 3.9.4, <= 3.9.7](https://discuss.newrelic.com/t/client-using-large-amount-of-memory/9307)
 - [sequel >= 2.12.0](https://github.com/jeremyevans/sequel/issues/1139)
+- [stomp <= 1.3.5](https://github.com/stompgem/stomp/issues/121)
 
 
 # Contributing
@@ -43,3 +44,4 @@ Thanks!
 - [Benoit Tigeot @benoittgt](https://github.com/benoittgt)
 - [Jolyon Pawlyn @jpawlyn](https://github.com/jpawlyn)
 - [Shai Coleman @shaicoleman](https://github.com/shaicoleman)
+- [Ryan Rosenblum @rrosenblum](https://github.com/rrosenblum)
