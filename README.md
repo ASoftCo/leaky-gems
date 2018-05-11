@@ -19,6 +19,7 @@ Your Ruby app leaks memory if you see gems above in your _Gemfile.lock_. The lis
 It appears some contributors submit gems with known memory issues, but not actual leaks. While those issues don't qualify as leaks they may still be important. I prefer listing them here to help other developers rather than just hiding them.
 
 Links to known memory issues (gems are listed alphabetically):
+- [activeadmin](https://github.com/activeadmin/activeadmin/issues/5113)
 - [axlsx](https://github.com/randym/axlsx/issues/276)
 - [delayed_job >= 4.06](https://github.com/collectiveidea/delayed_job/issues/776)
 - [libxml-ruby < 2.9.0 with Nokogiri RC3](http://webuild.envato.com/blog/tracking-down-ruby-heap-corruption/)
@@ -45,3 +46,4 @@ Thanks!
 - [Jolyon Pawlyn @jpawlyn](https://github.com/jpawlyn)
 - [Shai Coleman @shaicoleman](https://github.com/shaicoleman)
 - [Ryan Rosenblum @rrosenblum](https://github.com/rrosenblum)
+- [Lumir Olivares @lumir](https://github.com/lumir)
