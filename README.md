@@ -47,3 +47,7 @@ Thanks!
 - [Shai Coleman @shaicoleman](https://github.com/shaicoleman)
 - [Ryan Rosenblum @rrosenblum](https://github.com/rrosenblum)
 - [Lumir Olivares @lumir](https://github.com/lumir)
+
+# Gem
+
+After almost 4 years from [the initial request](https://github.com/ASoftCo/leaky-gems/issues/2) a gem that checks `Gemfile.lock` for leaky gems has been created – https://github.com/rubymem/bundler-leak.
